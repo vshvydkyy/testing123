@@ -1,3 +1,6 @@
 this is my first text file
 
 edit1
+
+
+edit2 should appear on non-master branch only
